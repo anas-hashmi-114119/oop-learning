@@ -62,7 +62,7 @@ public:
 int main(){
 	
 
-    PizzaOrder p1(1, "Anas", 1000);
+    PizzaOrder p1(1, "Javid", 1000);
     BurgerOrder b1(2, "ghulam",500);
 
     p1.calculateBill();
